@@ -1,0 +1,33 @@
+body
+{
+background-size: cover;
+}
+
+.heading{
+    width:100%;
+    text-align: left;
+
+}
+ 
+.heading h3{
+    display:inline;
+}
+
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+#playbtn{
+    margin-top: 20px;
+    width: 10%;
+    margin-bottom: 20px;
+}
+.modal-dailog{
+    width:90%;
+    margin-top: 50px;
+    
+}
+ #status{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
