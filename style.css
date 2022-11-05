@@ -22,6 +22,11 @@ background-size: cover;
     width: 10%;
     margin-bottom: 20px;
 }
+#restartbtn{
+    margin-top: 20px;
+    width: 10%;
+    margin-bottom: 20px;
+}
 .modal-dailog{
     width:90%;
     margin-top: 50px;
@@ -30,4 +35,13 @@ background-size: cover;
  #status{
     font-size: 22px;
     margin-bottom: 20px;
+}
+
+#copy_right_footer{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
 }
