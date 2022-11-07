@@ -45,3 +45,9 @@ background-size: cover;
    color: white;
    text-align: center;
 }
+
+canvas{
+    border-radius: 5px;
+    border-style: dashed;
+    border-color: aqua;
+}
